@@ -60,7 +60,7 @@ systems.
 
 ### Output Data Format:
 
-XML Format: 
+#### XML Format: 
 <br/>
 
 ```html
@@ -174,7 +174,7 @@ XML Format:
 </listings>
 ```
 
-JSON Format
+#### JSON Format
 <br/>
 ```json
 {
