@@ -3,8 +3,8 @@
 ### Input Data Format:
 The input data consists of a list of resumes in a raw text format:
 
-<br/>
 A single resume takes the following form:
+<br/>
 
 <pre>
 D: 29711
@@ -18,7 +18,7 @@ OPEN TO/
 DATE_START: 12 July 2005
 JOB_LOC: Yerevan, Armenia
 REQUIRED QUALIFICATIONS:
- - Higher education;
+- Higher education;
 - At least 2 years of work experience in programming.
 REMUNERATION/
 ABOUT COMPANY:
@@ -49,7 +49,7 @@ implementation of the international best practice. Under this Statement
 of Work, the activities will be implemented according to the following
 tasks:
 RESP:
- - Develop software using .NET;
+- Develop software using .NET;
 - Be responsible for project architecture design;
 - Be responsible for dedicated server and clients configuration;
 - Research work when required;
@@ -57,3 +57,5 @@ RESP:
 systems.
 ------------------------------
 </pre>
+
+### Output Data Format:
