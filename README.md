@@ -176,6 +176,7 @@ systems.
 
 #### JSON Format
 <br/>
+
 ```json
 {
 	"listings": {
