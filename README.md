@@ -63,6 +63,7 @@ systems.
 XML Format: 
 <br/>
 
+```html
 <pre>
 <listings>
 	<listing id="20389">
@@ -173,3 +174,4 @@ XML Format:
 	</listing>
 </listings>
 </pre>
+```
