@@ -64,7 +64,6 @@ XML Format:
 <br/>
 
 ```html
-<pre>
 <listings>
 	<listing id="20389">
 		<title>
@@ -173,5 +172,4 @@ XML Format:
 		</about_company>
 	</listing>
 </listings>
-</pre>
 ```
