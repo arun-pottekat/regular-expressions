@@ -116,7 +116,7 @@ XML Format:
 			Photo editing or multi-media experience is a plus;
 			</qualification>
 			<qualification>
-			Bachelor's degree required with 1-2 professional experience
+			Bachelor"s degree required with 1-2 professional experience
 			(post-undergrad);
 			</qualification>
 			<qualification>
@@ -140,7 +140,7 @@ XML Format:
 		(maximum 1 page);
 		- Current Resume or Curriculum Vitae (CV) with a passport size photo;
 		- Names and contact information of two referees.
-		Please, as a title of letter put the position's name you're applying
+		Please, as a title of letter put the position"s name you"re applying
 		for: 
 		Please submit your applications to: hr@..., or deliver hard copy
 		version to: 20 Kurghinyan Str., Araratyan dst. 2, Yerevan 0068, Republic
@@ -181,37 +181,37 @@ JSON Format
 	"listings": {
 		"listing": [
 			{
-				'_id': '29711', 
-				'title': 'Head of Corporate Customers Relationship Management Division', 
-				'location': 'Yerevan, Armenia', 
-				'job_description': {
-					'description': [
-						'The ""Clean Energy and Water"" (CEW) Program is a four-year initiative funded by the US Agency for International Development', 
-						'The objective of the Program is to assist sustainable management of water and energy sectors in the Republic of Armenia (RA). Within the framework of the Program, technical assistance will be provided to the RA Government to build river basin management planning capacities in Armenia', 
-						'Particularly, as part of the assistance in Vorotan river basin management planning, biological monitoring will be implemented, which will also include description and assessment of ecological status of water bodies in the river basin, in accordance with the RA legislation and Guidelines of the EU Water Framework Directive, as implementation of the international best practice', 
-						'Under this Statement of Work, the activities will be implemented according to the following tasks:'
+				"_id": "29711", 
+				"title": "Head of Corporate Customers Relationship Management Division", 
+				"location": "Yerevan, Armenia", 
+				"job_description": {
+					"description": [
+						"The ""Clean Energy and Water"" (CEW) Program is a four-year initiative funded by the US Agency for International Development", 
+						"The objective of the Program is to assist sustainable management of water and energy sectors in the Republic of Armenia (RA). Within the framework of the Program, technical assistance will be provided to the RA Government to build river basin management planning capacities in Armenia", 
+						"Particularly, as part of the assistance in Vorotan river basin management planning, biological monitoring will be implemented, which will also include description and assessment of ecological status of water bodies in the river basin, in accordance with the RA legislation and Guidelines of the EU Water Framework Directive, as implementation of the international best practice", 
+						"Under this Statement of Work, the activities will be implemented according to the following tasks:"
 					]
 				}, 
-				'job_responsibilities': {
-					'responsibility': [
-						'Develop software using .NET;', 
-						'Be responsible for project architecture design;', 
-						'Be responsible for dedicated server and clients configuration;', 
-						'Research work when required;', 
-						'Follow team lead, system architecture and Tech Lead in designing the systems.'
+				"job_responsibilities": {
+					"responsibility": [
+						"Develop software using .NET;", 
+						"Be responsible for project architecture design;", 
+						"Be responsible for dedicated server and clients configuration;", 
+						"Research work when required;", 
+						"Follow team lead, system architecture and Tech Lead in designing the systems."
 					]
 				}, 
-				'required_qualifications': {
-					'qualification': [
-						'Higher education;', 
-						'At least 2 years of work experience in programming. REMUNERATION/'
+				"required_qualifications": {
+					"qualification": [
+						"Higher education;", 
+						"At least 2 years of work experience in programming. REMUNERATION/"
 					]
 				}, 
-				'salary': ' High salary is guaranteed ', 
-				'application_procedure': 'Please submit your resumes to:http://tbe.taleo.net/NA6/ats/careers/requisition.jsp?org=QUESTRADE&cws=1&rid=223 Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - www.careercenter.am, Thanks.', 
-				'start_date': '12 July 2005', 
-				'application_deadline': '14 October 2014, 18:00', 
-				'about_company': '  According to Brown-Wilson Group Survey* EPAM Systems is the #1 software engineering outsourcing services provider in Central and Eastern Europe. Founded in 1993, EPAM maintains North American headquarters in Lawrenceville, NJ.  Currently there are 3500+ highly qualified IT professionals working at EPAM Systems. EPAM software development centers are located in Russia, Hungary, Belarus, Ukraine and Armenia. The company continues its growth and development.   Our mission is: ""Delivering excellence in software engineering"" to the benefit of our clients. *http://www.theblackbookofoutsourcing.com/top10itooffshoreeasterncentraleurope.html '
+				"salary": " High salary is guaranteed ", 
+				"application_procedure": "Please submit your resumes to:http://tbe.taleo.net/NA6/ats/careers/requisition.jsp?org=QUESTRADE&cws=1&rid=223 Please clearly mention in your application letter that you learned of this job opportunity through Career Center and mention the URL of its website - www.careercenter.am, Thanks.", 
+				"start_date": "12 July 2005", 
+				"application_deadline": "14 October 2014, 18:00", 
+				"about_company": "  According to Brown-Wilson Group Survey* EPAM Systems is the #1 software engineering outsourcing services provider in Central and Eastern Europe. Founded in 1993, EPAM maintains North American headquarters in Lawrenceville, NJ.  Currently there are 3500+ highly qualified IT professionals working at EPAM Systems. EPAM software development centers are located in Russia, Hungary, Belarus, Ukraine and Armenia. The company continues its growth and development.   Our mission is: ""Delivering excellence in software engineering"" to the benefit of our clients. *http://www.theblackbookofoutsourcing.com/top10itooffshoreeasterncentraleurope.html "
 			}
 		]
 	}
