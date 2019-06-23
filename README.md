@@ -5,7 +5,8 @@ The input data consists of a list of resumes in a raw text format:
 
 <br/>
 A single resume takes the following form:
-```
+
+<pre>
 D: 29711
 JOB_PROC: Please submit your resumes to:http://tbe.taleo.net/NA6/ats/careers/requisition.jsp?org=QUESTRADE&cws=1&rid=223
 Please clearly mention in your application letter that you learned of
@@ -55,4 +56,4 @@ RESP:
 - Follow team lead, system architecture and Tech Lead in designing the
 systems.
 ------------------------------
-```
+</pre>
