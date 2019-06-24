@@ -1,5 +1,7 @@
 ## Parsing raw text files into JSON and XML formats
 
+In simple terms, this project is a demonstration of the varied use of regular expressions in identifying patterns to extract data from a raw text file and process it into meaningful formats such as XML and JSON. This exercise depicts the use of positive-negative look aheads, capturing and non capturing groups etc. 
+
 ### Input Data Format:
 The input data consists of a list of resumes in a raw text format:
 
